@@ -45,7 +45,7 @@ Please [Email](pritishsrivastava18@gmail.com>) me you'd like to contribute to su
 2. Fetch the latest source code from the master branch.
 
 ``` 
-git clone https://github.com/stonega/tsacdop.git
+git clone https://github.com/Pritish-Srivastava/Podcast_Player.git
 ```
 
 3. Add api search api configure file.  
