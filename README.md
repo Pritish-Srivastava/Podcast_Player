@@ -23,7 +23,7 @@ More to come...
 
 | Home Page | Group | Podcast | Episode| Dark Mode |
 | ----- | ----- | ----- | ------ | ----- |
-|![][Homepage ScreenShot]|![][Group Screenshot] | ![][Podcast Screenshot] | ![][Episode Screenshot]| ![][Darkmode Screenshot] |
+|![][Group Screenshot] | ![][Podcast Screenshot] | ![][Episode Screenshot]|  |
 
 ## Localization
 
@@ -141,11 +141,9 @@ You can reach out to me directly at [pritishsrivastava18@gmail.com](pritishsriva
 [localizely - website]: https://localizely.com/
 [google play - icon]: https://img.shields.io/badge/google-playStore-%2323CCC6
 [google play]: https://play.google.com/store/apps/details?id=com.stonegate.tsacdop
-[Homepage ScreenShot]: https://raw.githubusercontent.com/stonega/tsacdop/master/preview/1585893838840.png
 [Group Screenshot]: https://raw.githubusercontent.com/stonega/tsacdop/master/preview/1585894051734.png
 [Podcast Screenshot]: https://raw.githubusercontent.com/stonega/tsacdop/master/preview/1585893877702.png
 [Episode Screenshot]: https://raw.githubusercontent.com/stonega/tsacdop/master/preview/1585896237809.png
-[Darkmode Screenshot]: https://raw.githubusercontent.com/stonega/tsacdop/master/preview/1585893920721.png
 [style: effective dart]: https://img.shields.io/badge/style-effective_dart-40c4ff.svg
 [effective dart pub]: https://pub.dev/packages/effective_dart
 [license]: https://github.com/stonega/tsacdop/blob/master/LICENSE
